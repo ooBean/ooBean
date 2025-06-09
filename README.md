@@ -10,7 +10,6 @@ Technical Skills include
 - Attention to detail
 - JavaScript/TypeScript
 - Responsive Design (CSS, Flexbox, Grid)
-- 响应式设计（CSS、Flexbox、Grid）
 - Performance Optimization (lazy loading, code splitting, tree shaking, memoization)
 
 Next On My List to Learn include React Node.js Mysql 😉
