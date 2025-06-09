@@ -1,7 +1,7 @@
 ```markdown
 # 🇺🇸 English
 
-## Hi there! 👋 I'm pqRZm
+## Hi there! 👋 I'm BeanCat
 
 I am a front-end engineer from Mainland China with five years of experience
 Location: Remote (full-time or part-time front-end development role)
@@ -14,12 +14,12 @@ Technical Skills include
 
 Next On My List to Learn include React Node.js Mysql 😉
 
-## 你好！👋 我是 pqRZm
+## 你好！👋 我是 王宇皎
 
 我是一名五年开发经验的前端开发
 ## 🔭 现阶段
 
-## 你好！👋 我是 pqRZm
+## 你好！👋 我是 王宇皎
 
 我是一名五年开发经验的前端开发
 ## 🔭 现阶段
