@@ -1,4 +1,3 @@
-```markdown
 # 🇺🇸 English
 
 ## Hi there! 👋 I'm BeanCat
