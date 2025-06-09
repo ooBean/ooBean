@@ -1,16 +1,41 @@
-## Hi there 👋
+```markdown
+# 🇺🇸 English
 
-<!--
-**ooPeachBoy/ooPeachBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋 I'm pqRZm
 
-Here are some ideas to get you started:
+I am a front-end engineer from Mainland China with five years of experience
+Location: Remote (full-time or part-time front-end development role)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills include
+- Attention to detail
+- JavaScript/TypeScript
+- Responsive Design (CSS, Flexbox, Grid)
+- 响应式设计（CSS、Flexbox、Grid）
+- Performance Optimization (lazy loading, code splitting, tree shaking, memoization)
+
+Next On My List to Learn include React Node.js Mysql 😉
+
+## 你好！👋 我是 pqRZm
+
+我是一名五年开发经验的前端开发
+## 🔭 现阶段
+
+## 你好！👋 我是 pqRZm
+
+我是一名五年开发经验的前端开发
+## 🔭 现阶段
+
+- 寻求远程 **全职 / 兼职** 前端开发岗位  
+
+## 🛠 技能栈
+
+- **前端**：JavaScript (ES6+)、TypeScript、HTML5、CSS3（Less / SCSS）  
+- **框架**：Vue2 / Vue3 全家桶、React、Nuxt、uni-app  
+- **构建**：Vite / Webpack、Rollup  
+- **优化**：虚拟滚动、懒加载、code-splitting  
+- **工具**：Git、ESLint、Prettier、CI/CD (GitHub Actions)  
+
+## 📫 联系方式
+
+- 邮箱: littlebeancat@outlook.com  
+- 微信: w1879790
