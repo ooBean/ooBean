@@ -1,6 +1,6 @@
 # 🇺🇸 English
 
-## Hi there! 👋 I'm BeanCat
+## Hi there! 👋 I'm Bean
 
 I am a front-end engineer from Mainland China with five years of experience
 Location: Remote (full-time or part-time front-end development role)
@@ -13,12 +13,12 @@ Technical Skills include
 
 Next On My List to Learn include React Node.js Mysql 😉
 
-## 你好！👋 我是 
+## 你好！👋 我是 Bean
 
 我是一名五年开发经验的前端开发
 ## 🔭 现阶段
 
-## 你好！👋 我是 
+## 你好！👋 我是 Bean
 
 我是一名五年开发经验的前端开发
 ## 🔭 现阶段
