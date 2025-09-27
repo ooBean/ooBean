@@ -38,8 +38,7 @@ Next On My List to Learn include React Node.js Mysql 😉
 - 邮箱: littlebeancat@outlook.com  
 - 微信: w1879790
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooPeachBoy&layout=compact)
-
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ooPeachBoy](https://streak-stats.demolab.com/?user=ooPeachBoy))
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=ooPeachBoy&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=ooPeachBoy&layout=compact&cache_seconds=1800])
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ooPeachBoy](https://streak-stats.demolab.com/?user=ooPeachBoy])
 
 
