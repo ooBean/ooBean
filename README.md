@@ -40,6 +40,6 @@ Next On My List to Learn include React Node.js Mysql 😉
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooPeachBoy&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ooPeachBoy)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ooPeachBoy](https://streak-stats.demolab.com/?user=ooPeachBoy))
 
 
