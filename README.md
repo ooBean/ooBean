@@ -25,7 +25,7 @@
 
 ---
 
-## 👤 关于我 | About Me
+## 👤 关于我 | About Me <a id="about-me"></a>
 
 <div align="center">
 <img src="https://github.com/ooBean.png" alt="Bean" width="120" style="border-radius: 50%;">
@@ -42,7 +42,7 @@
 
 ---
 
-## 💼 职业状态 | Career Status
+## 💼 职业状态 | Career Status <a id="career-status"></a>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 🛠 技术栈 | Technical Skills
+## 🛠 技术栈 | Technical Skills <a id="technical-skills"></a>
 
 <div align="center">
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 🏢 重要项目经验 | Key Project Experience
+## 🏢 重要项目经验 | Key Project Experience <a id="key-project-experience"></a>
 
 ### 🎨 腾讯设计云 (Tencent Codesign)
 
@@ -123,7 +123,7 @@
 
 ---
 
-## 🎯 精选项目 | Featured Projects
+## 🎯 精选项目 | Featured Projects <a id="featured-projects"></a>
 
 <div align="center">
 
@@ -131,7 +131,6 @@
 
 [![在线演示](https://img.shields.io/badge/在线演示-访问-blue?style=for-the-badge&logo=netlify)](http://bean.binballs.top/)
 [![源代码](https://img.shields.io/badge/源代码-查看-black?style=for-the-badge&logo=github)](https://github.com/ooBean/portfolio-vue3-vite)
-[![部署状态](https://img.shields.io/badge/已部署-Vercel-blue?style=for-the-badge&logo=vercel)](https://vercel.com/)
 
 **现代化响应式作品集，展示Vue 3生态系统的技术实力**
 **Modern responsive portfolio showcasing Vue 3 ecosystem capabilities**
@@ -220,7 +219,7 @@
 
 ---
 
-## 📝 项目说明 | Project Notes
+## 📝 项目说明 | Project Notes <a id="project-notes"></a>
 
 <div align="center">
 
@@ -244,7 +243,7 @@
 
 ---
 
-## 📞 联系方式 | Contact
+## 📞 联系方式 | Contact <a id="contact"></a>
 
 <div align="center">
 
