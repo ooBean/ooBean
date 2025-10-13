@@ -3,9 +3,9 @@
 # 👋 你好，我是 Bean
 
 [![Email](https://img.shields.io/badge/Email-1774233612%40qq.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:1774233612@qq.com)
-[![WeChat](https://img.shields.io/badge/WeChat-w1879790-green?style=flat-square)](#-联系方式-contact)
-[![Location](https://img.shields.io/badge/Location-Remote-orange?style=flat-square&logo=github)](#-关于我-about-me)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square&logo=react)](#-职业状态-career-status)
+[![WeChat](https://img.shields.io/badge/WeChat-w1879790-green?style=flat-square)](#contact)
+[![Location](https://img.shields.io/badge/Location-Remote-orange?style=flat-square&logo=github)](#about-me)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square&logo=react)](#career-status)
 
 **五年开发经验的前端工程师 | Front-end Engineer with 5+ years experience**
 
@@ -15,13 +15,13 @@
 
 ## 📋 目录 | Contents
 
-- [👤 关于我 | About Me](#-关于我-about-me)
-- [💼 职业状态 | Career Status](#-职业状态-career-status)
-- [🛠 技术栈 | Technical Skills](#-技术栈-technical-skills)
-- [🏢 重要项目经验 | Key Project Experience](#-重要项目经验-key-project-experience)
-- [🎯 精选项目 | Featured Projects](#-精选项目-featured-projects)
-- [📝 项目说明 | Project Notes](#-项目说明-project-notes)
-- [📞 联系方式 | Contact](#-联系方式-contact)
+- [👤 关于我 | About Me](#about-me)
+- [💼 职业状态 | Career Status](#career-status)
+- [🛠 技术栈 | Technical Skills](#technical-skills)
+- [🏢 重要项目经验 | Key Project Experience](#key-project-experience)
+- [🎯 精选项目 | Featured Projects](#featured-projects)
+- [📝 项目说明 | Project Notes](#project-notes)
+- [📞 联系方式 | Contact](#contact)
 
 ---
 
