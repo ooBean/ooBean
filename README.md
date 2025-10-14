@@ -175,8 +175,7 @@
 
 ## 📊 开发活跃度
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooBean&layout=compact&theme=react-dark&hide_border=true&langs_count=8&card_width=400)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooBean&layout=compact&cache_seconds=1800&langs_count=8&hide=html,css)<br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ooBean&theme=react-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400)
 
 ---
