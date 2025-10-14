@@ -1,4 +1,4 @@
-🌐 **[English Version →](./README-en.md)**  
+🌐 **[English Version →](./README-en.md)**
 🇨🇳 **[中文版本 →](./README.md)**
 
 ---
@@ -194,7 +194,7 @@ I continuously maintain and update open-source demos to explore new front-end te
 - **Email**: 1774233612@qq.com
 - **WeChat**: w1879790 | ✅ Immediate Response | Chinese Preferred
 - **GitHub**: [ooBean](https://github.com/ooBean)
-- **Technical Blog**: [https://juejin.cn/user/423734493341060](https://juejin.cn/user/423734493341060)
+- **CodePen**: [Bean](https://codepen.io/oopeachboy)
 
 ---
 

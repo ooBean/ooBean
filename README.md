@@ -1,5 +1,4 @@
-
-🌐 **[English Version →](./README-en.md)**  
+🌐 **[English Version →](./README-en.md)**
 🇨🇳 **[中文版本 →](./README.md)**
 
 ---
@@ -195,6 +194,8 @@
 - **邮箱**: 1774233612@qq.com
 - **微信**: w1879790 | ✅ 即时响应 | 中文优先
 - **GitHub**: [ooBean](https://github.com/ooBean)
+- **CodePen**: [Bean](https://codepen.io/oopeachboy)
+
 ---
 
 <div align="center">
