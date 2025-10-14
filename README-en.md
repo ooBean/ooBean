@@ -93,28 +93,34 @@ Crafting maintainable, high-performance web experiences.
 
 ---
 
-### 🚗 Qingyuan Smart City (2025.03 - 2025.05)
-**Position**: Web Front-end Developer
-**Tech Stack**: uni-app, Vue2, Vuex, SCSS, Gaode Map API, WeChat/Alipay Payment SDK
-**Project Highlights**: 🚗 Smart Parking | 💰 Multiple Payment Methods | 📊 Auto Billing | 📱 Mobile Optimization
+### 🎨 Tencent Codesign
+**[🌐 Live Demo](https://codesign.qq.com/)**
 
-**Project Description**: Qingyuan Smart City is a smart parking service mini-program for car owners, integrating road temporary parking, asset supermarket, public parking services, parking navigation, online payment, etc.
+**📋 Project Nature**
+- **Enterprise-level Design Collaboration Platform** - One-stop collaboration tool for Tencent product design teams
+- **Large Complex System** - Supports design annotation, slice generation, icon library integration, data tracking, etc.
 
-**Main Responsibilities**:
-- Responsible for development and continuous optimization of core features like parking navigation, timing, fee calculation, online payment, parking records
-- Integrated backend parking fee, payment, order APIs to ensure data accuracy and smooth business processes
-- Implemented Alipay and WeChat payment methods to improve payment convenience
-- Responsible for multi-platform adaptation and compatibility, ensuring good experience across different devices and platforms
-- Used SCSS for styling development to improve style reusability and maintainability
+**🎯 Core Features**
+- 🎨 **Design Annotation**: Automatically annotates design draft dimensions, colors, fonts, etc.
+- ✂️ **Slice Generation**: One-click generation of slice resources at different resolutions
+- 🖼️ **Icon Library**: Integrated with Tencent's internal icon library for quick access
+- 📊 **Data Tracking**: User behavior data collection and analysis
 
-**Technical Highlights**:
-- **Automatic Timing & Fee Calculation**: Front-end implemented automatic parking timing and real-time fee calculation
-- **Multiple Payment Methods**: Integrated mainstream electronic payment SDKs (Alipay, WeChat)
-- **Styling Development**: Used SCSS throughout the project, supporting theme switching and responsive layout
-- **Performance Optimization**: Used lazy loading, package splitting, virtual lists to optimize page rendering for large data scenarios
-- **Data Security**: Implemented user sensitive information desensitization display, payment operation secondary verification
+**🏗️ Technical Implementation**
+- **Frontend Framework**: Vue 2 + Vuex
+- **Network Requests**: Axios + Promise
+- **State Management**: Vuex + Modular state management
+- **Performance Optimization**: Virtual scrolling, lazy loading, code splitting
 
-**Project Results**: Improved city parking efficiency and user experience, achieving automated, one-stop parking experience
+**💡 Project Highlights**
+- 🌐 **Large Platform**: Serves Tencent's design collaboration platform with large user base
+- ☁️ **Cloud Collaboration**: Cloud backup of design source files, version history rollback
+- 💬 **Comment System**
+> Implemented the ability to add comments at any position on design drafts. The system records the XY coordinates and comment content, accurately restoring to the original position when reopened, greatly improving design review efficiency.
+- 🔐 **Permission Management**
+> Implemented a comprehensive team collaboration permission control system, supporting different roles with different operation permissions on design drafts, ensuring design draft security and collaboration standardization.
+- 📝 **Note Function**
+> Implemented a rich text editing note system, allowing users to add notes on design drafts with text box input, line breaks, movement, resizing, etc., improving team collaboration efficiency.
 
 ---
 
