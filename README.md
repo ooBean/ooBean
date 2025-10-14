@@ -145,7 +145,9 @@
 - ⚡ **性能优化**: 懒加载、滚动节流、CSS动画
 - 🎨 **主题切换**: 支持三种主题色（浅色、深色、暖色）切换
 
-### 🛒 [SaladGo](https://github.com/ooBean/SaladGo) - React移动端电商展示项目
+### 🛒 SaladGo - React移动端电商展示项目
+**[🌐 在线演示](http://bean.binballs.top/salad-app/) | [💻 源代码](https://github.com/ooBean/salad-app)**
+
 
 **⚠️ 重要说明**: 本项目为**移动端优先的技术展示项目**，专为移动端设计，未接入真实支付接口，主要用于演示移动端前端开发能力。
 

@@ -137,7 +137,8 @@ Modern responsive portfolio application showcasing Vue 3 ecosystem technical str
 - ⚡ **Performance Optimization**: Lazy loading, scroll throttling, CSS animations
 - 🎨 **Theme Switching**: Supports three theme colors (light, dark, warm)
 
-### 🛒 [SaladGo](https://github.com/ooBean/SaladGo) - React Mobile E-commerce Demo Project
+### 🛒 SaladGo- React Mobile E-commerce Demo Project
+**[🌐 Live Demo](http://bean.binballs.top/salad-app/) | [💻 Source Code](https://github.com/ooBean/salad-app)**
 
 **⚠️ Important Note**: This project is a **mobile-first technical demonstration project**, designed specifically for mobile, without real payment interface integration, mainly to demonstrate mobile front-end development capabilities.
 
