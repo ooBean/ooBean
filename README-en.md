@@ -1,6 +1,10 @@
 🌐 **[English Version →](./README-en.md)**
 🇨🇳 **[中文版本 →](./README.md)**
 
+![Vue3](https://img.shields.io/badge/Vue3-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 ---
 
 # 👋 Hi, I'm Bean
@@ -9,7 +13,7 @@
 🚀 **Frontend Engineer (5+ yrs)** | Vue3 · TS · Vite · React
 Crafting maintainable, high-performance web experiences.
 
-💡 Focused on remote web development and effective collaboration with distributed teams.
+💡 Currently focused on remote web development and eager to collaborate with distributed or cross-regional teams.
 
 ## 🧭 Navigation
 - **[🛠 Technical Skills](#-technical-skills)**
@@ -192,9 +196,9 @@ I continuously maintain and update open-source demos to explore new front-end te
 ## 📞 Contact
 
 - **Email**: 1774233612@qq.com
-- **WeChat**: w1879790 | ✅ Immediate Response | Chinese Preferred
+- **WeChat**: w1879790 | ✅ Fast Response | Chinese Preferred
 - **GitHub**: [ooBean](https://github.com/ooBean)
-- **CodePen**: [Bean](https://codepen.io/oopeachboy)
+**CodePen**: [Bean](https://codepen.io/oopeachboy)
 
 ---
 

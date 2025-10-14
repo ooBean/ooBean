@@ -1,6 +1,10 @@
 🌐 **[English Version →](./README-en.md)**
 🇨🇳 **[中文版本 →](./README.md)**
 
+![Vue3](https://img.shields.io/badge/Vue3-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 ---
 
 # 👋 你好，我是 Bean
@@ -10,7 +14,7 @@
 🚀 **前端工程师（5年经验）** | Vue3 · TypeScript · Vite · React
 专注于构建现代化、高性能的 Web 应用。
 
-💡 目前专注于远程 Web 项目开发，乐于与不同地区团队协作
+💡 目前专注于远程 Web 项目开发，乐于跨地区协作，期待参与更多国际化项目
 
 ## 🧭 目录
 - **[🛠 技术栈](#-技术栈)**
@@ -193,7 +197,7 @@
 - **邮箱**: 1774233612@qq.com
 - **微信**: w1879790 | ✅ 即时响应 | 中文优先
 - **GitHub**: [ooBean](https://github.com/ooBean)
-- **CodePen**: [Bean](https://codepen.io/oopeachboy)
+**CodePen**: [Bean](https://codepen.io/oopeachboy)
 
 ---
 
