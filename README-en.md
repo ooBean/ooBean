@@ -126,22 +126,35 @@ Crafting maintainable, high-performance web experiences.
 
 ## 🎯 Featured Projects
 
-### 🌟 portfolio-vue3-vite - Front-end Portfolio
+### 🌟 portfolio-vue3-vite - Frontend Portfolio
 **[🌐 Live Demo](http://bean.binballs.top/) | [💻 Source Code](https://github.com/ooBean/portfolio-vue3-vite)**
 
-Modern responsive portfolio application showcasing Vue 3 ecosystem technical strength and interactive component development capability.
+A modern responsive portfolio application showcasing technical expertise and interactive component development within the Vue 3 ecosystem.
 
 **Tech Stack**: Vue 3 (Composition API) + TypeScript + Vite + Pinia + vue-i18n + SCSS
-**Project Duration**: September - October 2025
+**Project Duration**: September 2025 - October 2025
 
-**Core Features**:
-- 🌍 **Multi-language Support**: Full internationalization (en, zh, zh-TW)
-- 🎨 **3D Interactive Components**: Tilt perspective effect cards
-- 📸 **Responsive Gallery**: Image hover effects
-- 💬 **Simulated Chat Application**: Asynchronous message demonstration
-- 🗂️ **State Management**: Pinia + Component State
-- ⚡ **Performance Optimization**: Lazy loading, scroll throttling, CSS animations
-- 🎨 **Theme Switching**: Supports three theme colors (light, dark, warm)
+## 🚀 Core Technical Highlights
+
+### Architecture Design
+- **Modern Frontend Stack**: Vue 3 + TypeScript + Vite, using Composition API and `<script setup>` syntax
+- **Hybrid State Management**: Pinia for global state, local ref for component state, sessionStorage for persistence
+- **Declarative Component Architecture**: Configuration-driven component rendering, supporting on-demand loading and dynamic routing
+
+### Performance Optimization
+- **GPU-Accelerated Animations**: Pure CSS 2D/3D transformations, optimized rendering performance with `will-change`
+- **Smart Loading Strategy**: Scroll throttling, lazy loading, and request debouncing to enhance user experience
+- **Responsive Design**: CSS Grid + Flexbox flexible layout, mobile-first media queries
+
+### Interaction Innovation
+- **3D Interactive Cards**: Real-time mouse position tracking, CSS perspective space, preview mode adaptation
+- **Smart Chat Interface**: Asynchronous message simulation, typing indicators, auto-scroll optimization
+- **Advanced Image Gallery**: Pure CSS masonry layout, hover effects, hybrid state management
+
+### Engineering Practices
+- **Full Internationalization**: Supports Chinese/English switching, dynamic text injection, multilingual technical documentation
+- **Development Experience Optimization**: TypeScript strict mode, custom directives, modular SCSS
+- **Cross-Platform Deployment**: Multi-environment configuration (GitHub Pages, Vercel), modern browser compatibility
 
 ### 🛒 SaladGo- React Mobile E-commerce Demo Project
 **[🌐 Live Demo](http://bean.binballs.top/salad-app/) | [💻 Source Code](https://github.com/ooBean/salad-app)**
@@ -164,6 +177,23 @@ Modern responsive portfolio application showcasing Vue 3 ecosystem technical str
 - **Vite** - Fast mobile build tool
 - **REM Adaptation Scheme** - Mobile screen adaptation
 - **CSS Modules** - Mobile style isolation
+
+## 🚀 Technical Highlights
+
+### Architecture Design
+- **Modern Tech Stack**: Project uses React, TypeScript, Vite and other cutting-edge technologies to ensure high performance and maintainability
+- **Centralized State Management**: Project uses Redux Toolkit for centralized state management, making application state more predictable and debuggable
+
+### Performance Optimization
+- **Responsive Design**: Project adopts mobile-first design philosophy, ensuring good user experience on various screen sizes
+- **Automated Image Optimization**: Project automatically compresses all resources during build process for better performance
+
+### Interaction Innovation
+- **Smooth Animation Effects**: Project uses Framer Motion to add smooth animation effects, enhancing user experience
+
+### Engineering Practices
+- **Complete User Flow**: Project covers complete user flow from product browsing, searching, adding to cart to simulated checkout, demonstrating core e-commerce functionality
+- **Online Deployment**: Project has been successfully deployed online, proving it has reached deliverable status
 
 **📱 Mobile Project Features**
 - 📐 **Mobile-first**: Designed for 375px-414px mainstream mobile screens
