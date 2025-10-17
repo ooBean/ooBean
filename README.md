@@ -230,26 +230,6 @@
 ---
 
 <!-- 固定在右下角的回到顶部按钮 -->
-<style>
-  .back-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background: #007acc;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-    z-index: 1000;
-    transition: background 0.3s ease;
-  }
-  .back-to-top:hover {
-    background: #005f9e;
-  }
-</style>
-
-<a href="#" class="back-to-top">↑ Back to Top</a>
+<a href="#" style="position: fixed; bottom: 20px; right: 20px; background: #007acc; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; box-shadow: 0 2px 5px rgba(0,0,0,0.2); z-index: 1000; transition: background 0.3s ease;" onmouseover="this.style.background='#005f9e'" onmouseout="this.style.background='#007acc'">↑ Back to Top</a>
 
 
