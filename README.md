@@ -38,14 +38,13 @@
 ## 🛠 技术栈
 
 ### 前端核心技能
-● 核心技能：JavaScript (5 年经验)，TypeScript (1–2 年)，Vue 2/3 (专家级)，React (个人项目实践 1–2 年)，Vite  
-● 样式与交互：CSS3、Less/SCSS、响应式设计、可访问性、主题定制  
-● 性能与工程化：代码分割、懒加载、组件库建设、移动端/PC端/小程序多端适配  
-● 可视化与工具：Echarts 数据可视化、Element-UI 组件库、GitHub Copilot 辅助开发  
-● 远程协作能力：熟悉 Git 协作流程，能够高效完成跨时区远程前端开发任务  
-● 跨团队协作：具备较强跨团队协作能力，能够推动前端规范与组件化建设  
+● 核心技能：JavaScript (5 年经验)，TypeScript (1–2 年)，Vue 2/3 (专家级)，React (个人项目实践 1–2 年)，Vite
+● 样式与交互：CSS3、Less/SCSS、响应式设计、可访问性、主题定制
+● 性能与工程化：代码分割、懒加载、组件库建设、移动端/PC端/小程序多端适配
+● 可视化与工具：Echarts 数据可视化、Element-UI 组件库、GitHub Copilot 辅助开发
+● 远程协作能力：熟悉 Git 协作流程，能够高效完成跨时区远程前端开发任务
+● 跨团队协作：具备较强跨团队协作能力，能够推动前端规范与组件化建设
 ● 问题排查：熟悉生产环境排查与性能优化，能快速定位和解决问题
-
 
 ### 性能优化专长
 - 虚拟滚动
@@ -147,7 +146,6 @@
 ### 🎬 演示 GIF
 - Portfolio Vue3-Vite Demo GIF: ![Portfolio GIF](https://raw.githubusercontent.com/ooBean/AssetHub/main/gifs/portfolio-vue3-vite/portfolio.gif)
 
- 
 
 ## 🚀 核心技术亮点
 
@@ -176,6 +174,9 @@
 
 **⚠️ 重要说明**: 本项目为**移动端优先的技术展示项目**，专为移动端设计，未接入真实支付接口，主要用于演示移动端前端开发能力。
 
+### 🎬 演示 GIF
+- SaladGo React Demo GIF: ![SaladGo GIF](https://raw.githubusercontent.com/ooBean/AssetHub/main/gifs/saladGo/saladGo.gif)
+
 ## 🚀 技术亮点
 
 ### 架构设计
@@ -200,7 +201,7 @@
 ## 📊 开发活跃度
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooBean&layout=compact&cache_seconds=1800&langs_count=8&hide=html,css)<br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=ooBean)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ooBean&theme=react-dark&hide_border=false)
 
 ---
 

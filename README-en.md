@@ -166,6 +166,9 @@ A modern responsive portfolio application showcasing technical expertise and int
 
 **⚠️ Important Note**: This project is a **mobile-first technical demonstration project**, designed specifically for mobile, without real payment interface integration, mainly to demonstrate mobile front-end development capabilities.
 
+### 🎬 Demo GIF
+- SaladGo React Demo GIF: ![SaladGo GIF](https://raw.githubusercontent.com/ooBean/AssetHub/main/gifs/saladGo/saladGo.gif)
+
 **📱 Mobile Core Features** (Simulated Implementation)
 - 🛍️ Mobile product display - Product list and details adapted for mobile screens
 - 🔍 Mobile search and filtering - Touch-friendly search and filter interactions
@@ -216,7 +219,7 @@ A modern responsive portfolio application showcasing technical expertise and int
 I continuously maintain and update open-source demos to explore new front-end technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooBean&layout=compact&cache_seconds=1800&langs_count=8&hide=html,css)<br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=ooBean)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ooBean&theme=react-dark&hide_border=false)
 
 ---
 
