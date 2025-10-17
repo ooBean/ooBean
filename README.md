@@ -146,7 +146,6 @@
 ### 🎬 演示 GIF
 - Portfolio Vue3-Vite Demo GIF: ![Portfolio GIF](https://raw.githubusercontent.com/ooBean/AssetHub/main/gifs/portfolio-vue3-vite/portfolio.gif)
 
-
 ## 🚀 核心技术亮点
 
 ### 架构设计
@@ -201,7 +200,7 @@
 ## 📊 开发活跃度
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooBean&layout=compact&cache_seconds=1800&langs_count=8&hide=html,css)<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ooBean&theme=react-dark&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=ooBean&theme=react-dark&hide_border=false" alt="GitHub Streak" />
 
 ---
 
@@ -227,5 +226,30 @@
 **感谢您的关注！期待与您交流技术，共同成长！**
 
 </div>
+
+---
+
+<!-- 固定在右下角的回到顶部按钮 -->
+<style>
+  .back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #007acc;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    z-index: 1000;
+    transition: background 0.3s ease;
+  }
+  .back-to-top:hover {
+    background: #005f9e;
+  }
+</style>
+
+<a href="#" class="back-to-top">↑ Back to Top</a>
 
 
