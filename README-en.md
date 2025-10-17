@@ -217,7 +217,7 @@ A modern responsive portfolio application showcasing technical expertise and int
 ## 📊 Development Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooBean&layout=compact&cache_seconds=1800&langs_count=8&hide=html,css)<br>
-<img src="https://streak-stats.demolab.com?user=ooBean&theme=react-dark&hide_border=false" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ooBean&theme=react-dark&hide_border=false)
 
 ---
 
