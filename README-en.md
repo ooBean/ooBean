@@ -37,11 +37,13 @@ Crafting maintainable, high-performance web experiences.
 ## 🛠 Technical Skills
 
 ### Core Frontend Skills
-- **Programming Languages**: JavaScript (ES6+), TypeScript
-- **Frontend Frameworks**: Vue 2/3 (Expert), React, Nuxt, uni-app
-- **Build Tools**: Vite (Preferred), Webpack (Complex configuration experience), Rollup
-- **Styling Technologies**: CSS3, Less/SCSS, Responsive Design
-- **Development Tools**: Git, ESLint, Prettier, CI/CD
+- ● Core Skills: JavaScript (5 years), TypeScript (1–2 years), Vue 2/3 (expert), React (personal projects, 1–2 years), Vite
+- ● Styling & Interaction: CSS3, Less/SCSS, responsive design, accessibility, theme customization
+- ● Performance & Engineering: code splitting, lazy loading, component library development, multi-platform adaptation (mobile, PC, mini-programs)
+- ● Visualization & Tools: Echarts for data visualization, Element-UI component library, GitHub Copilot for development productivity
+- ● Remote Collaboration: familiar with Git workflows; capable of efficient cross-timezone remote frontend development
+- ● Cross-team Collaboration: strong ability to collaborate across teams and drive frontend standards and componentization
+- ● Troubleshooting: skilled in production environment debugging and performance optimization
 
 ### Performance Optimization Expertise
 - Virtual Scrolling
@@ -128,6 +130,9 @@ Crafting maintainable, high-performance web experiences.
 
 ### 🌟 portfolio-vue3-vite - Frontend Portfolio
 **[🌐 Live Demo](http://bean.binballs.top/) | [💻 Source Code](https://github.com/ooBean/portfolio-vue3-vite)**
+
+### 🎬 Demo GIF
+- Portfolio Vue3-Vite Demo GIF: ![Portfolio GIF](https://raw.githubusercontent.com/ooBean/AssetHub/main/gifs/portfolio-vue3-vite/portfolio.gif)
 
 A modern responsive portfolio application showcasing technical expertise and interactive component development within the Vue 3 ecosystem.
 

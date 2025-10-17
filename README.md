@@ -38,11 +38,14 @@
 ## 🛠 技术栈
 
 ### 前端核心技能
-- **编程语言**: JavaScript (ES6+), TypeScript
-- **前端框架**: Vue 2/3 (专家级), React, Nuxt, uni-app
-- **构建工具**: Vite (首选), Webpack
-- **样式技术**: CSS3, Less/SCSS, 响应式设计
-- **开发工具**: Git, ESLint, Prettier, CI/CD
+● 核心技能：JavaScript (5 年经验)，TypeScript (1–2 年)，Vue 2/3 (专家级)，React (个人项目实践 1–2 年)，Vite  
+● 样式与交互：CSS3、Less/SCSS、响应式设计、可访问性、主题定制  
+● 性能与工程化：代码分割、懒加载、组件库建设、移动端/PC端/小程序多端适配  
+● 可视化与工具：Echarts 数据可视化、Element-UI 组件库、GitHub Copilot 辅助开发  
+● 远程协作能力：熟悉 Git 协作流程，能够高效完成跨时区远程前端开发任务  
+● 跨团队协作：具备较强跨团队协作能力，能够推动前端规范与组件化建设  
+● 问题排查：熟悉生产环境排查与性能优化，能快速定位和解决问题
+
 
 ### 性能优化专长
 - 虚拟滚动
@@ -140,6 +143,11 @@
 
 **技术栈**: Vue 3 (Composition API) + TypeScript + Vite + Pinia + vue-i18n + SCSS
 **项目周期**: 2025年9月 - 10月
+
+### 🎬 演示 GIF
+- Portfolio Vue3-Vite Demo GIF: ![Portfolio GIF](https://raw.githubusercontent.com/ooBean/AssetHub/main/gifs/portfolio-vue3-vite/portfolio.gif)
+
+ 
 
 ## 🚀 核心技术亮点
 
