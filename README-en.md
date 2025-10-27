@@ -130,7 +130,7 @@ Crafting maintainable, high-performance web experiences.
 ## 🎯 Featured Projects
 
 ### 🌟 portfolio-vue3-vite - Frontend Portfolio
-**[🌐 Live Demo](http://bean.binballs.top/) | [💻 Source Code](https://github.com/ooBean/portfolio-vue3-vite)**
+**[🌐 Live Demo](https://portfolio-vue3-vite-git-master-oopeachboys-projects.vercel.app) | [💻 Source Code](https://github.com/ooBean/portfolio-vue3-vite)**
 
 ### 🎬 Demo GIF
 - Portfolio Vue3-Vite Demo GIF: ![Portfolio GIF](https://raw.githubusercontent.com/ooBean/AssetHub/main/gifs/portfolio-vue3-vite/portfolio.gif)

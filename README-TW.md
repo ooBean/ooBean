@@ -137,7 +137,7 @@
 ## 🎯 精選項目
 
 ### 🌟 portfolio-vue3-vite - 前端作品集  
-**[🌐 在線演示](http://bean.binballs.top/) | [💻 源代碼](https://github.com/ooBean/portfolio-vue3-vite)**
+**[🌐 在線演示](https://portfolio-vue3-vite-git-master-oopeachboys-projects.vercel.app) | [💻 源代碼](https://github.com/ooBean/portfolio-vue3-vite)**
 
 現代化的響應式作品集應用，展示Vue 3生態系統的技術實力和交互組件開發能力。
 
