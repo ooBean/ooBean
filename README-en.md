@@ -163,7 +163,7 @@ A modern responsive portfolio application showcasing technical expertise and int
 - **Cross-Platform Deployment**: Multi-environment configuration (GitHub Pages, Vercel), modern browser compatibility
 
 ### 🛒 SaladGo- React Mobile E-commerce Demo Project
-**[🌐 Live Demo](http://bean.binballs.top/salad-app/) | [💻 Source Code](https://github.com/ooBean/salad-app)**
+**[🌐 Live Demo](https://salad-copsj7hmj-oopeachboys-projects.vercel.app) | [💻 Source Code](https://github.com/ooBean/salad-app)**
 
 **⚠️ Important Note**: This project is a **mobile-first technical demonstration project**, designed specifically for mobile, without real payment interface integration, mainly to demonstrate mobile front-end development capabilities.
 
